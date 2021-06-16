@@ -1,6 +1,6 @@
 # simple-blog-using-django
 
-Blog/posts simples utilizando Django
+Blog simples utilizando Django
 
 ## **Ferramentas Utilizadas**
 
